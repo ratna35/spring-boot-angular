@@ -1,0 +1,3 @@
+com\digitalscan\SpringBootWebApplication.class
+com\digitalscan\controller\GlobalExceptionHandler.class
+com\digitalscan\controller\UploadController.class

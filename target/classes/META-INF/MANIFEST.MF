@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: digitalscan
+Implementation-Version: 1.0
+Built-By: UMARANI
+Implementation-Vendor-Id: com.capitalone
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://projects.spring.io/spring-boot/digitalscan/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
